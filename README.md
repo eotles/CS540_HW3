@@ -1,4 +1,4 @@
-HW3_Structure
+CS540_HW3
 =============
 
 Artificial Intelligence - Perceptron Homework
